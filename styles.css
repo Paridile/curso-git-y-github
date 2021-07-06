@@ -8,6 +8,11 @@
 	width: 100vw;		
 }
 
-.ejemplo {
-	padding: auto;
-}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;	
+	color: white;
+	text-align: center;
+  }
