@@ -1,5 +1,11 @@
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. At impedit eum soluta iste, iure officia sed cupiditate nemo voluptatibus officiis.
 
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet 
 
 Lorem ipsum dolor sit amet  consectetur adipisicing elit. Dignissimos, provident. 
+=======
+master 1
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, provident.
+>>>>>>> 380a5ee84c493a6f7f0384d976b7ebb7906f5fb3
