@@ -64,6 +64,23 @@ Algunos de los temas estudiados en este curso fueron:
 
 </br>
 
+## Practicas
+
+### Pull request
+
+Esta pr&aacute;ctica consisti&oacute; en hacer un fork del repositorio [hyperblog](https://github.com/freddier/hyperblog "hyperblog"), agregar mi nombre en index.html y hacer un [pull request](https://github.com/freddier/hyperblog/pulls/Paridile "Haz click aqui para ir al pull request").
+
+
+### Github pages
+Esta pr&aacute;ctica const&oacute; de hacer una p&aacute;gina web utilizando github pages como host, en mi caso ya hab&iacute;a realizado esto con anterioridad, puedes consultar mi p&aacute;gina haciendo [click aqu&iacute;](https://paridile.github.io/ "Mi github page").
+
+
+</br>
+
+----
+
+</br>
+
 
 ## Tecnolog&iacute;as utilizadas 💻
 
